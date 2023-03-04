@@ -79,9 +79,11 @@ def obterSequencia(quantidade):
                     NS4 = (18 + 5) * 2 = 46
                         etc...
             '''
+            # Adiciona o numero na sequencia
             sequencia.append((sequencia[i]
                 + obterQuantPrimos(quantidade)[i]) * 2)
-
+            
+    # Retorna a sequencia
     return sequencia
 
 print(obterSequencia(20))
