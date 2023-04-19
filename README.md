@@ -1,5 +1,5 @@
-# Sequencia de Renan kkkkk
-Gerador de uma sequência lógica que inventei numa aula de matemática
+# Sequencia lógica
+Gerador de uma sequência lógica que duma aula de matemática
 
 Tendo Ns1 = 1,
 tomando NP = {1, 2, 3, 5, 7, 11, ...},
